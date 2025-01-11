@@ -1,4 +1,14 @@
-## Hi there 👋
+## Hello there. 
+
+I'm Ahmedul Haque Abid, you can call me Abid. I'm from Bangladesh.
+
+I've started by Dev career since 2012. Started with PHP, jQuery, Codeigniter. Now alongside with development, I have skilled-up on DevOps tools like Docker, Kuberneter, CI/CD and AWS.
+
+I love to keep myself learn about all the latest things that is going in the Dev world... And Daily.Dev is really been helping me keep up. 
+
+<a href="https://app.daily.dev/a_h_abid"><img src="https://api.daily.dev/devcards/v2/H7nO8xWp3.png?type=default&r=0ik" width="356" alt="Ahmedul Haque Abid's Dev Card"/></a>
+
+If interested, reach me at [X / Twitter](https://twitter.com/a_h_abid).
 
 <!--
 **a-h-abid/a-h-abid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
